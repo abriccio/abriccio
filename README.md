@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @abriccio
-- I made audio software at @ArborealAudio
+- 🎸 I make audio software at [Arboreal Audio](https://github.com/ArborealAudio)
 - 👀 I’m interested in audio programming, backend development, and game development
 - 🌱 I’m currently learning: backend dev with Golang & MySQL; low-level audio/game dev with Zig
 
